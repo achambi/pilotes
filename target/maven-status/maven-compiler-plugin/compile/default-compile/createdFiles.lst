@@ -1,0 +1,10 @@
+com/tui/proof/responds/ClientResponds.class
+com/tui/proof/mapper/OrderMapper.class
+com/tui/proof/responds/OrderResponds.class
+com/tui/proof/repositories/entities/AddressEntity.class
+com/tui/proof/repositories/entities/ClientEntity.class
+com/tui/proof/repositories/entities/OrderEntity.class
+com/tui/proof/controllers/OrderController.class
+com/tui/proof/services/impl/ClientServiceImpl.class
+com/tui/proof/services/ClientService.class
+com/tui/proof/repositories/ClientRepository.class
